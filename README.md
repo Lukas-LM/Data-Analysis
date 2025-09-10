@@ -5,7 +5,7 @@ The goal is to analyse the dataset whether it is suitable for a Machine Learning
 
 ## Project Overwie
 - **Type**: Data analysis with Python
-- **Dataset**: Prima Indians Diabetes Dataset from Kaggle
+- **Dataset**: Pima Indians Diabetes Dataset from Kaggle
 - **Language**: Python
 - **Libraries**: NumPy, Pandas, Scikit-Learn, Matplotlib
 - **Tools**: GPT-5 mini, Google Locker Studio
