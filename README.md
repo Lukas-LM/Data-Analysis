@@ -73,8 +73,7 @@ Gen_AI_Data_Cleaning/
 │   └── requirements.txt
 │
 README.md
-|
-|
+│
 .gitignore
 ```
 
