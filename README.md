@@ -52,6 +52,7 @@ possible data preprocessing functions:
 - All in all the dataset is not optimal for a Machine Learning Model
 
 ## Structure
+```
 Gen_AI_Data_Cleaning/
 │
 ├── data/
@@ -72,6 +73,10 @@ Gen_AI_Data_Cleaning/
 │   └── requirements.txt
 │
 README.md
+|
+|
+.gitignore
+```
 
 ## My path
 
