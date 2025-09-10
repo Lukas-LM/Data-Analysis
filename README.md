@@ -51,6 +51,9 @@ possible data preprocessing functions:
 - there are not much columns that correlated to the target column 'Outcome'
 - All in all the dataset is not optimal for a Machine Learning Model
 
+## Structure
+Gen_AI_Data_Cleaning/ │ ├── data/ │ ├── raw/ │ │ └── diabetes.csv │ └── processed/ │ └── Cleaned_data.csv │ ├── src/ │ └── gen_ai_cleaning.py │ ├── dashboard/ │ └── Diabetes_Dataset_Dashboard.pdf │ ├── docs/ │ ├── Dashboard_analysis.txt │ ├── prompts.txt │ └── requirements.txt │ └── README.md
+
 ## My path
 
 I learned new technologies to analyse data.
