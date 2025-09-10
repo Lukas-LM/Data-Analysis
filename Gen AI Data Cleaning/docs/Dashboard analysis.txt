@@ -1,0 +1,14 @@
+Dashboard analysis
+
+The dataset includes 768 diabetes diagnoses what was determined by eight columns. 
+The columns are values like BMI, Insulin or Age.
+With this Analysis, I aim to decide whether the dataset is suitable for a prediction model or not
+
+- The dataset got 768 rows after cleaning
+- The bar chart Shows Insulin and SkinThickness after cleaning, the majority of the Insulin and SkinThickness values are the mean values
+- The pie chart shows the balance of the dataset, 34.9% of the diagnoses are diabetes-positive and 65.1% are negative
+- The heatmap shows the correlation matrix, we can see no columns are highly correlated with each other1, but we can also see, there is just one good correlation between 'Age' and the target 'Outcome'.
+
+I had not much to clean, there were no missing values and no duplicates, also the datatypes were correct. I only Need to clean the invalid zero values.
+
+In general this dataset is not suitable for a prediction model. The number of rows is very small, a model needs input to learn from the data, what is not given. Moreover the cleaning of the invalid zero values would have a big impact on the models accuracy, because most of the values in 'Insulin' and 'SkinThickness' are replaced by the mean value, the model is more guessing than predicting. Also the heatmap does not look very comfortable for a prediction model, only a few columns correlated with the target column 'Outcome' what bad for the trustworthiness. from a practical standpoint, the dataset is not suitable for reliable predictions in a clinical setting because the model can not give a prediction with acceptable accuracy, what may lead to a bad medical care.
