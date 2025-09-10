@@ -52,7 +52,29 @@ possible data preprocessing functions:
 - All in all the dataset is not optimal for a Machine Learning Model
 
 ## Structure
-Gen_AI_Data_Cleaning/ │ ├── data/ │ ├── raw/ │ │ └── diabetes.csv │ └── processed/ │ └── Cleaned_data.csv │ ├── src/ │ └── gen_ai_cleaning.py │ ├── dashboard/ │ └── Diabetes_Dataset_Dashboard.pdf │ ├── docs/ │ ├── Dashboard_analysis.txt │ ├── prompts.txt │ └── requirements.txt │ └── README.md
+Gen_AI_Data_Cleaning/
+│
+├── data/
+│   ├── raw/
+│   │   └── diabetes.csv
+│   └── processed/
+│       └── Cleaned_data.csv
+│
+├── src/
+│   └── gen_ai_cleaning.py
+│
+├── dashboard/
+│   └── Diabetes_Dataset_Dashboard.pdf
+│
+├── docs/
+│   ├── Dashboard_analysis.txt
+│   ├── prompts.txt
+│   └── requirements.txt
+│
+README.md
+|
+|
+.gitignore
 
 ## My path
 
