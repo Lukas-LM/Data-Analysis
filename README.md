@@ -8,7 +8,7 @@ The goal is to analyse the dataset whether it is suitable for a Machine Learning
 - **Dataset**: Pima Indians Diabetes Dataset from Kaggle
 - **Language**: Python
 - **Libraries**: NumPy, Pandas, Scikit-Learn, Matplotlib
-- **Tools**: GPT-5 mini, Google Locker Studio
+- **Tools**: GPT-5 mini, Google Looker Studio
 
 ## Workflow
 
@@ -40,7 +40,7 @@ possible data preprocessing functions:
     - Pie Chart for Outcome-balance
     - Bar Chart for Feature-Cleaning
     - Heatmap for Correlation matrix
-- creating the Dashboard in Google Locker Studio
+- creating the Dashboard in Google Looker Studio
 - arrange the charts and graphs
 - give the visualizations a unifrom look
 
@@ -80,11 +80,11 @@ README.md
 ## My path
 
 I learned new technologies to analyse data.
-In addition to deepening my data cleaning skills, I learned how to use Google Locker Studio, as well as creating a Dashboard
+In addition to deepening my data cleaning skills, I learned how to use Google Looker Studio, as well as creating a Dashboard
 Gen AI is a very often used technology in data anlysis, that is why I tried to use it in one of my projects to experience the full data anlyst profile
 Also the analyzation of a data is a mainskill what I learned
-I learned:
-- the funktion of Google Locker Studio
+What I learned:
+- the funktion of Google Looker Studio
 - creating a Dashboard
 - using a LLM to clean data
 - analyzing data
